@@ -145,6 +145,6 @@ The product is sold for informational purposes only. The end user assumes full r
 
 ---
 ## 🖼 Previews👇
-
+![preview]https://media.discordapp.net/attachments/1190433478110609438/1229186963022676019/3.jpg?ex=662ec491&is=661c4f91&hm=e62049af024b19217511646665ad482b80836f0944f777406558ddc5ee588eef&=&format=webp&width=863&height=221)
 ![preview](https://i.ibb.co/H73pwTS/kkn.png)
 ![preview](https://i.ibb.co/zNgD2yw/kkm.png)
